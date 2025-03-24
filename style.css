@@ -2,27 +2,3 @@ body {
     color: navy;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
-#tartalom {
-    width: 960px;
-    height: 100%;
-    margin-top: 0px;
-    margin: 0% 32%;
-    background-color: skyblue;
-    border-left: 15px double blue;
-}
-
-p {
-    text-align: justify;
-    padding: 10px;
-}
-
-.fénykép {
-    float: right;
-    width: 150px;
-}
-
-a a:visited a:hover a:active {
-    text-decoration: none;
-    color: white;
-} 
