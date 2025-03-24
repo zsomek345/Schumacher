@@ -11,3 +11,18 @@ body {
     background-color: skyblue;
     border-left: 15px double blue;
 }
+
+p {
+    text-align: justify;
+    padding: 10px;
+}
+
+.fénykép {
+    float: right;
+    width: 150px;
+}
+
+a a:visited a:hover a:active {
+    text-decoration: none;
+    color: white;
+}
